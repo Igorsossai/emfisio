@@ -1,0 +1,28 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Arquivos temporários
+*.tmp
+*.temp

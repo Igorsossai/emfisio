@@ -1,0 +1,1 @@
+-- Script de inserção de dados iniciais para testes

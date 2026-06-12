@@ -1,0 +1,1 @@
+-- Script de criação das tabelas do banco EMFISIO

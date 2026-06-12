@@ -1,0 +1,1 @@
+-- Script de índices para otimização básica de performance
